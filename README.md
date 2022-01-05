@@ -5,8 +5,3 @@
 * 兴趣：行人重识别、数据挖掘。🤔
 
   
-
-
-## :computer:
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=linjie98&show_icons=true_color=fff&icon_color=0000FF&text_color=000000&bg_color=ffffff" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjie98&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
